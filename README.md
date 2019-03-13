@@ -22,7 +22,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 * 5.电源方面：12V的锂电池或者航模电池（因为我这里是直接对L298N进行供电，然后利用L298N的5V供电接口再给单片机供电，也可以单独给单片机供电的）
 
-* 6.其他：螺丝刀，焊锡， 母对母导线若干。
+* 6.其他：螺丝刀，电烙铁， 母对母导线若干。
 
 ## 动手操作
 ### 测试方面
