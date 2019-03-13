@@ -13,6 +13,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 ## 准备工作
 ### 一.需要的元器件及工具等
 * 1.车身方面：四个步进电机， 四个轮子，俩块底板（这里是四驱，如果想做俩驱的可以相应的少一些模块）
+![电机](images/dianji.jpg)
 
 * 2.通信方面：HC-05 蓝牙模块（也可以用HC-06），USB转TTL模块（购买蓝牙时就有配套，可以根据自己的实际情况进行选择）
 
