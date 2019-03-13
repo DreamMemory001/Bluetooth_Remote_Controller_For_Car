@@ -16,7 +16,11 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 ![电机](images/dianji.jpg)
 
 * 2.通信方面：HC-05 蓝牙模块（也可以用HC-06），USB转TTL模块（购买蓝牙时就有配套，可以根据自己的实际情况进行选择）
+
+
 ![hc05](images/HC-05.jpg) ![hc05_usb](images/usb.jpg)
+
+
 * 3.控制单片机方面： STM32C8T6（51完全可以，但是一定要牢记，一定要使用晶振为11.0592的单片机，不然在传输过程中会有乱码的出现，这个是因为晶振即使为12，但是他的波特率误差也会在30%左右），ST-Link V6 烧录器
 ![stm32](images/stm32.jpg)    ![stlink](images/st-link.jpg)
 * 4.驱动方面： L298N电机驱动模块
