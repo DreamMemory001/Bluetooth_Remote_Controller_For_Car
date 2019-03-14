@@ -10,6 +10,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
  - [ ] 光感应模式
  
 
+
 ## 准备工作
 ### 一.需要的元器件及工具等
 * 1.车身方面：四个步进电机， 四个轮子，俩块底板（这里是四驱，如果想做俩驱的可以相应的少一些模块）
