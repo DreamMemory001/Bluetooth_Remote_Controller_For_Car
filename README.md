@@ -10,6 +10,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
  - [ ] 光感应模式
  
 
+
 ## 准备工作
 ### 一.需要的元器件及工具等
 * 1.车身方面：四个步进电机， 四个轮子，俩块底板（这里是四驱，如果想做俩驱的可以相应的少一些模块）
@@ -37,6 +38,8 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 蓝牙测试：先使用USB转TTL模块和蓝牙进行接线， PC端使用HID转串口小助手，手机端使用HC串口助手进行调试。波特率一般使用9600，
 手机端如果可以连上蓝牙之后正常发送数据，这说明蓝牙模块是OK的。（HID转串口小助手，HC串口助手和其他所要用到的工具都可以都在material包里边找到）
+
+
 ![接线图](images/hc05_usb.png)
 
 
