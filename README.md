@@ -45,6 +45,3 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 
 
-
-
-
