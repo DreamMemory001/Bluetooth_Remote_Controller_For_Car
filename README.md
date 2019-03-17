@@ -4,7 +4,8 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 <div align = "center"><img src = "Bluetooth_Remote_Controller_For_Car-App/app/src/main/res/drawable/app_car.jpg" width = "100px", height = "100px"></img></div>
 
    <div align ="center"><a href = "https://github.com/DreamMemory001/Bluetooth_Remote_Controller_For_Car/tree/master/apk">点击下载</a> </div>
-   * 单片机的程序使用KEIL5写的，所以拿KIEL5直接打开就能进行烧录了
+   
+  *单片机的程序使用KEIL5写的，所以拿KIEL5直接打开就能进行烧录了
 
 > 做这个小车一定要有耐心，耐得下性子，不能急躁，应一一谨慎的进行排查错误，这样才能拼装并且调试完成这个小车。
 ## 小车实现的功能 
