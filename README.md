@@ -48,7 +48,10 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 <div align = "center"><img src ="images/hc05_usb.png"></img></div>
 
 <div align = "center">这是测试蓝牙成功的图片</div>
-![HID](images/HID.png)                         ![phone](images/phone.png)
+
+![HID](images/HID.png)           
+
+![phone](images/phone.png)
 
 
 ## 未完待续 ！
