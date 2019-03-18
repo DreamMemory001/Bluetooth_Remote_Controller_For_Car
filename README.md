@@ -42,11 +42,13 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 电机测试：在电机俩端接一节干电池，测试电机是否能够正常运转。
 
-蓝牙测试：先使用USB转TTL模块和蓝牙进行接线， PC端使用HID转串口小助手，手机端使用HC串口助手进行调试。波特率一般使用9600，
+蓝牙测试：先使用USB转TTL模块和蓝牙进行接线（接线图如下）， PC端使用HID转串口小助手，手机端使用HC串口助手进行调试。波特率一般使用9600，
 手机端如果可以连上蓝牙之后正常发送数据，这说明蓝牙模块是OK的。（HID转串口小助手，HC串口助手和其他所要用到的工具都可以都在material包里边找到）
 
 <div align = "center"><img src ="images/hc05_usb.png"></img></div>
 
+<div align = "center">这是测试蓝牙成功的图片</div>
+![HID](images/HID.png)                         ![phone](images/phone.png)
 
 
 ## 未完待续 ！
