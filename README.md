@@ -11,7 +11,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 > 先贴一个做成的成品图
 
-![成品图](images/final1.png)
+![成品图](images/final1.jpg)
 
 
 ## 小车实现的功能 
@@ -55,9 +55,9 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 <div align = "center">这是测试蓝牙成功的图片</div>
    
-<div align = "left"><img src ="images/HID.png"  width ="200px" height = "200px" ></img></div>
+<div align = "center"><img src ="images/HID.png"  width ="200px" height = "200px" ></img></div>
 
-<div align = "right"><img src ="images/phone.png"  width ="200px" height = "300px" ></img></div>
+<div align = "center"><img src ="images/phone.png"  width ="200px" height = "300px" ></img></div>
 
 
 ## 未完待续 ！
