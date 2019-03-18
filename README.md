@@ -8,6 +8,12 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
   <div  align="center">单片机的程序使用KEIL5写的，所以拿KIEL5直接打开就能进行烧录了 </div>      
 
 > 做这个小车一定要有耐心，耐得下性子，不能急躁，应一一谨慎的进行排查错误，这样才能拼装并且调试完成这个小车。
+
+> 先贴一个做成的成品图
+
+![成品图](images/final1.png)
+
+
 ## 小车实现的功能 
  - [x] 操控杆模式
  - [x] 重力感应模式
@@ -49,9 +55,9 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 <div align = "center">这是测试蓝牙成功的图片</div>
    
-<div align = "center"><img src ="images/HID.png"  width ="50px" height = "50px" ></img></div>
+<div align = "center"><img src ="images/HID.png"  width ="200px" height = "200px" ></img></div>
 
-<div align = "center"><img src ="images/phone.png"  width ="50px" height = "50px" ></img></div>
+<div align = "center"><img src ="images/phone.png"  width ="200px" height = "200px" ></img></div>
 
 
 ## 未完待续 ！
