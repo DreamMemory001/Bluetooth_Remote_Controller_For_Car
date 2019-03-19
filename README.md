@@ -13,7 +13,6 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 ![成品图](images/final1.jpg)
 
-
 ## 小车实现的功能 
  - [x] 操控杆模式
  - [x] 重力感应模式
