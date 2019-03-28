@@ -55,7 +55,9 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 <div align = "center"><img src ="images/HID.png"  width ="200px" height = "200px" ></img></div>
 
 <div align = "center"><img src ="images/phone.png"  width ="200px" height = "300px" ></img></div>
-![image](images/HID.png)  ![image_](images/phone.png)
+
+
+![image](images/HID.png)   ![image_](images/phone.png)
 
 
 ## 未完待续 ！
