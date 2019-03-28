@@ -52,10 +52,10 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 <div align = "center">这是测试蓝牙成功的图片</div>
    
-<div align = "left">
+<div align = "center">
   
-  <img src ="images/HID.png"  width ="200px" height = "200px" ></img>
-  <img src ="images/phone.png"  width ="200px" height = "300px" ></img>
+  <img src ="images/HID.png"  width ="300px" height = "400px" ></img>
+  <img src ="images/phone.png"  width ="300px" height = "400px" ></img>
 
 
 </div>
