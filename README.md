@@ -11,8 +11,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 > 先贴一个做成的成品图
 
-<div align="center"><img src="Bluetooth_Remote_Controller_For_Car-App/app/src/main/res/drawable/final1.jpg" width = "400px" height = "700px"></img></div>
-
+![final](images/final.jpg)
 ## 小车实现的功能 
  - [x] 操控杆模式
  - [x] 重力感应模式
@@ -67,7 +66,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 ![L298N](images/jiexian.png)
 
-# 组装结束之后，安装APP，连接蓝牙，就可以开始你的飙车之旅了啊！！！
+## 组装结束之后，安装APP，连接蓝牙，就可以开始你的飙车之旅了啊！！！
 
 
 
