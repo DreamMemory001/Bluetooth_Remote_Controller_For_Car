@@ -11,7 +11,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 > 先贴一个做成的成品图
 
-![成品图](images/final1.jpg)
+<div align="center"><img src="Bluetooth_Remote_Controller_For_Car-App/app/src/main/res/drawable/final1.jpg" width = "400px" height = "700px"></img></div>
 
 ## 小车实现的功能 
  - [x] 操控杆模式
