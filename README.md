@@ -60,6 +60,9 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 </div>
 
+### 组装小车
+
+小车的组装重要还是在接线方面，
 
 
 ## 未完待续 ！
