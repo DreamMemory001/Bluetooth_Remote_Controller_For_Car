@@ -30,7 +30,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 ![hc05](images/HC-05.jpg) ![hc05_usb](images/usb.jpg)
 
 
-* 3.控制单片机方面： STM32C8T6（51完全可以，但是一定要牢记，一定要使用晶振为11.0592的单片机，不然在传输过程中会有乱码的出现，这个是因为晶振即使为12，但是他的波特率误差也会在30%左右），ST-Link V6 烧录器
+* 3.控制单片机方面： STM32C8T6（51完全可以，但是一定要牢记，一定要使用晶振为11.0592的单片机，不然在传输过程中会有乱码的出现，这个是因为晶振即使为12，但是他的波特率误差也会在30%左右，补充一点，但是STM32F103C8T6的最小系统板，虽然晶振是8.00，但是依然亲测没问题，可以使用，具体的自我感觉有点玄学！！！），ST-Link V6 烧录器
 ![stm32](images/stm32.jpg)    ![stlink](images/st-link.jpg)
 * 4.驱动方面： L298N电机驱动模块
 ![L298N](images/L298N.jpg)
