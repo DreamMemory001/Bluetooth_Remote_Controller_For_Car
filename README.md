@@ -66,6 +66,7 @@ This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to c
 
 ![L298N](images/jiexian.png)
 
+
 ## 组装结束之后，安装APP，连接蓝牙，就可以开始你的飙车之旅了啊！！！技术好的话是可以实现漂移的。
 
 
