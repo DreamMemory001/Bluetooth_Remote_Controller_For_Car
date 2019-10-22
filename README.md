@@ -1,7 +1,7 @@
 # Bluetooth_Remote_Controller_For_Car
 This repository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to communicate with your phone     
                           <div  align="center"> 这是小车的控制APP,欢迎下载  </div>                        
-<div align = "center"><img src = "Bluetooth_Remote_Controller_For_Car-App/app/src/main/res/drawable/app_car.jpg" width = "100px", height = "100px"></img></div>
+<div align = "center"><img src = "Bluetooth_Remote_Controller_For_Car-App/app/src/main/res/drawable/app_car.jpg" width = "100px" height = "100px"></img></div>
 
    <div align ="center"><a href = "https://github.com/DreamMemory001/Bluetooth_Remote_Controller_For_Car/tree/master/apk">点击下载</a> </div>
     
